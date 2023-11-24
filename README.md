@@ -5,7 +5,7 @@
 <p> <img width="400" align="right"src="https://camo.githubusercontent.com/82f491f0f34bdd7b0082f9e122f254a05ac1e3eda4c974761727877fefd11350/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65312f31662f38352f65313166383532396632313531633036383831656534633938616661656337322e676966" alt="coding" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xayitboy7&label=Profile%20views&color=0e75b6&style=flat" alt="xayitboy7" /> </p>
 
-- 🌱 Сейчас я изучаю **Дарт**
+- 🌱 Сейчас я изучаю **Дарт, Java**
 
 - 💬 Спросите меня о **Android, веб-разработка**
 
